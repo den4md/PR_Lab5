@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Client\UDP_Client\bin\Debug\UDP_Client.exe.config
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Client\UDP_Client\bin\Debug\UDP_Client.exe
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Client\UDP_Client\bin\Debug\UDP_Client.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Client\UDP_Client\obj\Debug\UDP_Client.exe
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Client\UDP_Client\obj\Debug\UDP_Client.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Client\UDP_Client\obj\Debug\UDP_Client.csprojResolveAssemblyReference.cache

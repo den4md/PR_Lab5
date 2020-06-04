@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.Form.resources
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe.config
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.Properties.Resources.resources
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.exe
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csprojResolveAssemblyReference.cache

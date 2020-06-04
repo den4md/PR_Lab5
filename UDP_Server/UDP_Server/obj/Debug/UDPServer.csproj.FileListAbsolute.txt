@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form.resources
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb

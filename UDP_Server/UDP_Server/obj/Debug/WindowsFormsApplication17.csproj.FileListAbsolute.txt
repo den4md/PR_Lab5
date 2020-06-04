@@ -1,0 +1,25 @@
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+c:\users\vlada\documents\visual studio 2015\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csprojResolveAssemblyReference.cache
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csprojResolveAssemblyReference.cache
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.CoreCompileInputs.cache
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+D:\Proects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+G:\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+G:\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+G:\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+C:\Users\User\Desktop\3 курс\PR\Lab5\UDP\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
